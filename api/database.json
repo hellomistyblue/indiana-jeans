@@ -17,17 +17,17 @@
     },
     {
       "ownsBlueJeans": true,
-      "socioLocationId": 0,
+      "socioLocationId": 1,
       "id": 4
     },
     {
       "ownsBlueJeans": false,
-      "socioLocationId": 0,
+      "socioLocationId": 2,
       "id": 5
     },
     {
       "ownsBlueJeans": true,
-      "socioLocationId": 0,
+      "socioLocationId": 3,
       "id": 6
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "ownsBlueJeans": true,
-      "socioLocationId": 0,
+      "socioLocationId": 4,
       "id": 12
     },
     {
@@ -74,6 +74,36 @@
       "ownsBlueJeans": false,
       "socioLocationId": 4,
       "id": 15
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 16
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 17
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 5,
+      "id": 18
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 4,
+      "id": 19
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 20
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 21
     }
   ],
   "socioLocations": [
